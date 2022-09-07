@@ -22,7 +22,7 @@
     <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github-readme-stats.vercel.app/api/top-langs?username=nkshah2&show_icons=true&theme=radical&layout=compact">
 </picture>
 
-## Tech Stack
+## Tech Stack <sub><img src="https://raw.githubusercontent.com/nkshah2/nkshah2/main/media/server.gif" width="40px" height="40px" /></sub>
 
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
 
@@ -34,6 +34,6 @@
 
 <img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
 
-## Reach me
+## Reach me <sub><img src="https://raw.githubusercontent.com/nkshah2/nkshah2/main/media/walkie.gif" width="40px" height="40px" /></sub>
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198037437011/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/NemiShah3) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nemi-shah/)
