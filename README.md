@@ -1,6 +1,6 @@
 ## Hi there  <img src="https://raw.githubusercontent.com/nkshah2/nkshah2/main/media/wave.gif" width="26px" height="26px" />
 
-- :briefcase: Im a full stack software developer working at&nbsp; [<sub style="background-color: red"><picture>
+- :briefcase: I'm Nemi, a full stack software developer working at&nbsp; [<sub style="background-color: red"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supertokens/supertokens-logo/796112db2f60bbced7521f30d5b3cecc40069788/logo/ST_full_logo_dark_theme.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/supertokens/supertokens-logo/796112db2f60bbced7521f30d5b3cecc40069788/logo/ST_icon_light_theme.svg">
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/supertokens/supertokens-logo/796112db2f60bbced7521f30d5b3cecc40069788/logo/ST_icon_light_theme.svg" height="20px">
