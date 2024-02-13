@@ -1,6 +1,6 @@
 ## Hi there  <img src="https://raw.githubusercontent.com/nkshah2/nkshah2/main/media/wave.gif" width="26px" height="26px" />
 
-- :briefcase: I'm Nemi, a full stack software developer working at [SuperTokens](https://supertokens.com?referrer=nkshah2)
+- :briefcase: I'm Nemi, a indie mobile developer who also does some freelance work part time.
 - :speech_balloon: Talk to me about: Programming, Gaming, Movies, TV etc
 - :video_game: Always up for some co-op: League of legends, Destiny 2, Plate Up
 
@@ -25,7 +25,13 @@
     <img alt="Shows theme aware content" src="https://github-profile-trophy.vercel.app/?username=nkshah2&theme=onedark&column=4&margin-w=12&margin-h=12">
 </picture>
 
+## Hire me
 
+If you are looking for some help building apps or just some consultation, reach out on the platform of your choice!
+
+<a href="https://www.upwork.com/fl/~01d734c2b5d3adcccb" target="_blank"><img src="https://github.com/nkshah2/nkshah2/assets/18233774/8a5b89e7-99f0-409a-b92a-126388894a1f" width="150"/></a> &nbsp; &nbsp; &nbsp; <a href="https://www.fiverr.com/users/nkshah2" target="_blank"><img src="https://github.com/nkshah2/nkshah2/assets/18233774/18672f70-f3c2-433a-a75d-74729eaadb81" width="150"/></a>
+
+<a href="https://nemishahkhuep3g5.contra.com/" target="_blank"><img src="https://github.com/nkshah2/nkshah2/assets/18233774/43e05252-6a9f-4608-a03c-b58869ee4694" width="150"/></a>
 
 ## Tech Stack <sub><img src="https://raw.githubusercontent.com/nkshah2/nkshah2/main/media/server.gif" width="40px" height="40px" /></sub>
 
